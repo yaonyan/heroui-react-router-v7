@@ -1,7 +1,7 @@
 import { Code } from "@heroui/code";
 import { Snippet } from "@heroui/snippet";
 import { Link } from "@heroui/link";
-import type { MetaFunction } from "@remix-run/node";
+import type { MetaFunction } from "react-router";
 import { SVGProps } from "react";
 import { button as buttonStyles } from "@heroui/theme";
 import { siteConfig } from "config/site";
